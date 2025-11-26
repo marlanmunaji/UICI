@@ -3,6 +3,6 @@ Repositori ini berisi kumpulan kode sumber dan proyek yang dibuat untuk memenuhi
 
 Isi Repositori:
 
--Kode sumber untuk tugas-tugas kuliah
--Proyek-proyek yang dibuat untuk memenuhi tugas kuliah
--Dokumentasi dan penjelasan tentang kode sumber dan proyek
+- Kode sumber untuk tugas-tugas kuliah
+- Proyek-proyek yang dibuat untuk memenuhi tugas kuliah
+- Dokumentasi dan penjelasan tentang kode sumber dan proyek
